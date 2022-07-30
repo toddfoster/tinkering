@@ -1,2 +1,3 @@
-# tinkering
-Code for tinkering with hardware
+This is a playground for tinkering with hardware.
+
+* bclock: a binary clock
